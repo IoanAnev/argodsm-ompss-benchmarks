@@ -1,0 +1,3 @@
+[submodule "toy"]
+	path = toy
+	url = git@github.com:IoanAnev/argodsm-ompss-toy.git
