@@ -1,3 +1,6 @@
 [submodule "toy"]
 	path = toy
 	url = git@github.com:IoanAnev/argodsm-ompss-toy.git
+[submodule "parsec"]
+	path = parsec
+	url = git@github.com:IoanAnev/argodsm-parsec.git
