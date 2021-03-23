@@ -10,6 +10,7 @@ The original repository can be found [here](https://pm.bsc.es/gitlab/benchmarks/
 
 <ins>Benchmarks</ins>:
 - Blackscholes
+- Swaptions
 
 ## TOY
 
