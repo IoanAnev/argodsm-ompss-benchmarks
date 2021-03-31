@@ -3,6 +3,14 @@
 This is a collection of benchmarks ported on [ArgoDSM](https://www.it.uu.se/research/project/argo).\
 You can find the original repository of the system [here](https://github.com/etascale/argodsm).
 
+## NPB
+
+The NAS Parallel Benchmarks written in C++.\
+The original repository can be found [here](https://github.com/GMAP/NPB-CPP).
+
+<ins>Benchmarks</ins>:
+- CG
+
 ## PARSEC
 
 The Princeton Application Repository for Shared-Memory Computers.\
