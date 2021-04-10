@@ -10,6 +10,7 @@ The original repository can be found [here](https://github.com/GMAP/NPB-CPP).
 
 <ins>Benchmarks</ins>:
 - CG
+- FT
 
 ## PARSEC
 
