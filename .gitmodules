@@ -7,3 +7,6 @@
 [submodule "npb"]
 	path = npb
 	url = git@github.com:IoanAnev/argodsm-npb.git
+[submodule "bpmf"]
+	path = bpmf
+	url = git@github.com:IoanAnev/argodsm-bpmf.git
