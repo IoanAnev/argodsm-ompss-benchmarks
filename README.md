@@ -35,6 +35,7 @@ Some toy benchmarks.
 - Matvec\_strong
 - Matvec\_weak
 - Fibonacci
+- Himeno
 
 # Contact Information
 
