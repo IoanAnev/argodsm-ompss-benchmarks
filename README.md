@@ -32,6 +32,7 @@ Some toy benchmarks.
 
 <ins>Benchmarks</ins>:
 - Daxpy\_strong
+- Daxpy\_weak
 - Matvec\_strong
 - Matvec\_weak
 - Fibonacci
