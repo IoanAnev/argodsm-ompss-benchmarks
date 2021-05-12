@@ -31,12 +31,11 @@ The original repository can be found [here](https://pm.bsc.es/gitlab/benchmarks/
 Some toy benchmarks.
 
 <ins>Benchmarks</ins>:
-- Daxpy\_strong
-- Daxpy\_weak
-- Matvec\_strong
-- Matvec\_weak
+- Daxpy
+- Matvec
 - Fibonacci
 - Himeno
+- Matmul
 
 # Contact Information
 
