@@ -36,6 +36,7 @@ Some toy benchmarks.
 - Fibonacci
 - Himeno
 - Matmul
+- Stream
 
 # Contact Information
 
