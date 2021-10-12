@@ -1,4 +1,4 @@
-# ArgoDSM@OmpSs Benchmarks
+# OmpSs-2@Cluster Benchmarks
 
 This is a collection of benchmarks ported on [ArgoDSM](https://www.it.uu.se/research/project/argo).\
 You can find the original repository of the system [here](https://github.com/etascale/argodsm).
