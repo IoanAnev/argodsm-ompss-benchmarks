@@ -1,12 +1,12 @@
 [submodule "toy"]
 	path = toy
-	url = git@github.com:IoanAnev/ompss-2-toy.git
+	url = git@github.com:ioanev/ompss-2-toy.git
 [submodule "parsec"]
 	path = parsec
-	url = git@github.com:IoanAnev/parsec.git
+	url = git@github.com:ioanev/parsec.git
 [submodule "npb"]
 	path = npb
-	url = git@github.com:IoanAnev/npb.git
+	url = git@github.com:ioanev/npb.git
 [submodule "bpmf"]
 	path = bpmf
-	url = git@github.com:IoanAnev/bpmf.git
+	url = git@github.com:ioanev/bpmf.git
